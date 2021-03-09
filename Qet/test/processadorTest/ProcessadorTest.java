@@ -9,5 +9,17 @@ public class ProcessadorTest {
 		
 	}
 	
+	@Test
+	void verificaOPagamentoHaMaisNaFatura() 
+	{
+		
+	}
+	
+	@Test
+	void verificaSeAFaturaFoiTotalmentePaga() 
+	{
+		
+	}
+	
 
 }
